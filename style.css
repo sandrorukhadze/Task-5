@@ -1,0 +1,204 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.header_class {
+    width: 1336px;
+    height: 178px;
+    padding: 0px 52px 0px 52px;
+    gap: 16px;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+}
+
+.h5 {
+    position: absolute;
+    display: inline-block;
+}
+
+.h1 {
+    bottom: 110px;
+    display: flex;
+    position: absolute;
+}
+
+.main_p {
+    display: flex;
+    position: absolute;
+    bottom: 70px;
+}
+
+.main_p2 {
+    display: flex;
+    position: absolute;
+    bottom: 30px;
+}
+
+.main_class {
+    width: 1336px;
+    height: 135px;
+}
+
+.div1_class {
+    position: absolute;
+    width: 310px;
+    height: 430px;
+    border: 1px;
+    padding: 0px 0px 16px 0px;
+    bottom: 174px;
+}
+
+.student {
+
+    width: 278px;
+    height: 115px;
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
+
+.div2_class {
+    position: absolute;
+    width: 310px;
+    height: 430px;
+    border: 1px;
+    left: 340px;
+    padding: 0px 0px 16px 0px;
+    bottom: 174px;
+}
+
+.div3_class {
+    position: absolute;
+    width: 310px;
+    height: 430px;
+    border: 1px;
+    left: 680px;
+    padding: 0px 0px 16px 0px;
+    bottom: 174px;
+}
+
+.div4_class {
+    position: absolute;
+    width: 310px;
+    height: 430px;
+    border: 1px;
+    left: 1025px;
+    padding: 0px 0px 16px 0px;
+    bottom: 174px;
+}
+
+.div5_class {
+    position: absolute;
+    width: 310px;
+    height: 430px;
+    border: 1px;
+    top: 650px;
+    padding: 0px 0px 16px 0px;
+    bottom: 174px;
+}
+
+.div6_class {
+    position: absolute;
+    width: 310px;
+    height: 430px;
+    border: 1px;
+    top: 650px;
+    left: 340px;
+    padding: 0px 0px 16px 0px;
+    bottom: 174px;
+}
+
+.div7_class {
+    position: absolute;
+    width: 310px;
+    height: 430px;
+    border: 1px;
+    top: 650px;
+    left: 680px;
+    padding: 0px 0px 16px 0px;
+    bottom: 174px;
+}
+
+.div8_class {
+    position: absolute;
+    width: 310px;
+    height: 430px;
+    border: 1px;
+    top: 650px;
+    left: 1025px;
+    padding: 0px 0px 16px 0px;
+    bottom: 174px;
+
+}
+
+.footer_class {
+    height: 512px;
+
+    background-color: #535353;
+}
+
+.divfooter_class {
+    height: 223px;
+    top: 108px;
+    left: 164px;
+    position: relative;
+
+}
+
+.footertext_class {
+    left: 20px;
+    display: block;
+    position: absolute;
+
+}
+
+.fb {
+    top: 110px;
+    left: 10px;
+    position: relative;
+
+}
+
+.insta {
+    top: 110px;
+    left: 15px;
+    position: relative;
+
+}
+
+.in {
+    top: 110px;
+    left: 20px;
+    position: relative;
+
+}
+
+.web {
+    display: inline-block;
+    position: absolute;
+    left: 500px;
+    bottom: 0px;
+    width: 136px;
+    height: 223px;
+
+}
+
+.services {
+    display: inline-block;
+    position: absolute;
+    left: 700px;
+    bottom: 0px;
+    width: 190px;
+    height: 223px;
+
+}
+
+.languages {
+    width: 107px;
+    height: 127px;
+    left: 1100px;
+    position: absolute;
+}
